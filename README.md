@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.genius.com/4889401d9a074dfed09ae99e236c7740.1000x1000x1.png" height="150" width="150">
-</p>
-
 <h1 align="center">Java Calculator with Advanced Calculations</h1>
 
 ## Overview
@@ -22,7 +18,7 @@ $ - **Basic Calculations(Add, Subtraction, Multiple, Division)**
 
 $ - **Advanced Calculations(Area[Square,Circle,Triangle,Rectangle], Perimeter[Square,Circle,Triangle,Rectangle], Root, Factorial)**
 
-### TODO
+## TODO
 
 $ - **New Calculations**
 
