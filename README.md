@@ -18,9 +18,16 @@ It's only Turkish right now. (go listen to otuka 🙏)
 
 ## Calculations
 
-$ - **Basic Calculations(Add, Subtraction, Multiple, Division)**
-
-$ - **Advanced Calculations(Area[Square,Circle,Triangle,Rectangle], Perimeter[Square,Circle,Triangle,Rectangle], Root, Factorial)**
+$ - 1. Basic Calculations
+      * Add
+      * Subtraction
+      * Multiple
+      * Division
+$ - 1. Advanced Calculations
+      * Area[Square,Circle,Triangle,Rectangle]
+      * Perimeter[Square,Circle,Triangle,Rectangle]
+      * Root
+      * Factorial
 
 ## TODO
 
