@@ -10,7 +10,11 @@ Like bro think it's not easy as Eclipse in this shi.
 
 The extensions are a lil buggy tho.
 
-It's only Turkish rn xd (go listen to otuka 🙏)
+Anyways it's cuz i'm a dumbass.
+
+But it works yuppi.
+
+It's only Turkish right now. (go listen to otuka 🙏)
 
 ## Calculations
 
