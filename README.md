@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48efe135-2c46-492a-90bd-2a7d26674a17" height="150" width="150">
+  <img src="https://images.genius.com/4889401d9a074dfed09ae99e236c7740.1000x1000x1.png" height="150" width="150">
 </p>
 
 <h1 align="center">Java Calculator with Advanced Calculations</h1>
