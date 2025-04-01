@@ -1,8 +1,6 @@
 <table align="center">
   <tr>
-    <td>
       <img src="https://images.genius.com/4889401d9a074dfed09ae99e236c7740.1000x1000x1.png" height="150" width="150">
-    </td>
   </tr>
 </table>
 
