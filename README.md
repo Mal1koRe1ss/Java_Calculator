@@ -1,10 +1,6 @@
-<table align="center" style="width: 100%; height: 100vh;">
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://images.genius.com/4889401d9a074dfed09ae99e236c7740.1000x1000x1.png" style="width: 20%; height: 20%; object-fit: contain;">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48efe135-2c46-492a-90bd-2a7d26674a17" height="150" width="150">
+</p>
 
 <h1 align="center">Java Calculator with Advanced Calculations</h1>
 
@@ -12,13 +8,13 @@
 
 Yes this is simple. It's written in java and it can do some calculations.
 
--# It's only Turkish rn xd (go listen to otuka 🙏)
-
 I write this in VSCode and it's hard because of the VSCode.
 
 Like bro think it's not easy as Eclipse in this shi.
 
 The extensions are a lil buggy tho.
+
+It's only Turkish rn xd (go listen to otuka 🙏)
 
 ## Calculations
 
@@ -39,4 +35,5 @@ $ - **Executable(Compiled)**
 git clone https://github.com/Mal1koRe1ss/Java_Calculator.git
 cd src
 javac App.java
-java App```
+java App
+```
