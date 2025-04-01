@@ -14,7 +14,9 @@ Anyways it's cuz i'm a dumbass.
 
 But it works yuppi.
 
-It's only Turkish right now. (go listen to otuka 🙏)
+It's only Turkish right now.
+
+> (go listen to otuka 🙏)
 
 ## Calculations
 
