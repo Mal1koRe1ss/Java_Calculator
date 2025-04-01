@@ -1,7 +1,7 @@
 <table align="center" style="width: 100%; height: 100vh;">
   <tr>
     <td style="text-align: center;">
-      <img src="https://images.genius.com/4889401d9a074dfed09ae99e236c7740.1000x1000x1.png" style="width: 100%; height: 100%; object-fit: contain;">
+      <img src="https://images.genius.com/4889401d9a074dfed09ae99e236c7740.1000x1000x1.png" style="width: 20%; height: 20%; object-fit: contain;">
     </td>
   </tr>
 </table>
